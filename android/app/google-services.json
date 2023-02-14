@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1073566844111",
+    "firebase_url": "https://ekub-app-default-rtdb.firebaseio.com",
+    "project_id": "ekub-app",
+    "storage_bucket": "ekub-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073566844111:android:1b995053fcd00f1310e3ba",
+        "android_client_info": {
+          "package_name": "com.ekubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073566844111-rea6e3r6m6b79r4fapobc6n93nilc96d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ekubapp",
+            "certificate_hash": "c01f42096b6e20ba5514953042d039307168bff8"
+          }
+        },
+        {
+          "client_id": "1073566844111-r8f99cepeiqi0soeebeigcc5fhm9melt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvptGQkUQTqFmn2gEh3-LCH72FLhNnJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073566844111-r8f99cepeiqi0soeebeigcc5fhm9melt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073566844111-5oiihjjo7asttc713ioamf6erlltjt25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekubapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073566844111:android:98e7e961fdfd501310e3ba",
+        "android_client_info": {
+          "package_name": "com.example.ekubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073566844111-r8f99cepeiqi0soeebeigcc5fhm9melt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvptGQkUQTqFmn2gEh3-LCH72FLhNnJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073566844111-r8f99cepeiqi0soeebeigcc5fhm9melt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073566844111-5oiihjjo7asttc713ioamf6erlltjt25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekubapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073566844111:android:3d475bc25738dffb10e3ba",
+        "android_client_info": {
+          "package_name": "com.example.ekubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073566844111-r8f99cepeiqi0soeebeigcc5fhm9melt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvptGQkUQTqFmn2gEh3-LCH72FLhNnJGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073566844111-r8f99cepeiqi0soeebeigcc5fhm9melt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073566844111-5oiihjjo7asttc713ioamf6erlltjt25.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ekubapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

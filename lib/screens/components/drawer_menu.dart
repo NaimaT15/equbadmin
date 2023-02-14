@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:responsive_admin_dashboard/constants/constants.dart';
 import 'package:responsive_admin_dashboard/screens/components/drawer_list_tile.dart';
+import 'package:responsive_admin_dashboard/users/home_page.dart';
 
 class DrawerMenu extends StatelessWidget {
   const DrawerMenu({Key? key}) : super(key: key);
@@ -21,7 +22,13 @@ class DrawerMenu extends StatelessWidget {
           DrawerListTile(
               title: 'Users',
               svgSrc: 'assets/icons/BlogPost.svg',
-              tap: () {}),
+              tap: () {
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (context) => HomePage(),
+                    ));
+              }),
           DrawerListTile(
               title: 'Message', svgSrc: 'assets/icons/Message.svg', tap: () {}),
           DrawerListTile(
@@ -35,15 +42,12 @@ class DrawerMenu extends StatelessWidget {
               thickness: 0.2,
             ),
           ),
-
           DrawerListTile(
               title: 'Settings',
               svgSrc: 'assets/icons/Setting.svg',
               tap: () {}),
           DrawerListTile(
-              title: 'Logout',
-              svgSrc: 'assets/icons/Logout.svg',
-              tap: () {}),
+              title: 'Logout', svgSrc: 'assets/icons/Logout.svg', tap: () {}),
         ],
       ),
     );

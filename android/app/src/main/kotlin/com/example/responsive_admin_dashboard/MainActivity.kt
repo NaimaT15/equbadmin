@@ -1,4 +1,4 @@
-package com.example.responsive_admin_dashboard
+package com.example.ekubapp
 
 import io.flutter.embedding.android.FlutterActivity
 

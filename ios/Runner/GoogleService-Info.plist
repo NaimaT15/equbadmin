@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1073566844111-sq6eeuld0k07flln1uamcppaoeo5c45c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1073566844111-sq6eeuld0k07flln1uamcppaoeo5c45c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1073566844111-rea6e3r6m6b79r4fapobc6n93nilc96d.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA8H6G_JnrIGxPpVRBoMDNKE4u4KIH77_c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1073566844111</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.responsiveAdminDashboard</string>
+	<key>PROJECT_ID</key>
+	<string>ekub-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ekub-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1073566844111:ios:26fd8f3cbbb0684710e3ba</string>
+	<key>DATABASE_URL</key>
+	<string>https://ekub-app-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
